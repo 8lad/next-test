@@ -1,9 +1,9 @@
 {
   "extends": ["prettier", "next/core-web-vitals"],
   "rules": {
-    "no-console": "error",
     "no-unused-vars": "error",
     "no-duplicate-imports": "error",
+    "no-console": "warn",
     "no-tabs": "warn",
     "semi": "warn"
   }

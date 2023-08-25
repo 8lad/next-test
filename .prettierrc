@@ -5,5 +5,8 @@
   "singleQuote": true,
   "printWidth": 120,
   "arrowParens": "always",
-  "endOfLine": "lf"
+  "endOfLine": "lf",
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "jsxTrailingComma": "all"
 }
